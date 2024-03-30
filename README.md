@@ -1,6 +1,3 @@
 # Credit Card Fraud Detection
-<<<<<<< HEAD
-I developed a Jupyter Notebook to classify fradulent credit card transactions based on a dataset of 284,315 records. Only 492 records were actually fradulent, so I had to undersample the legitimate records to minimize the imbalance between the two classes. I used several ML models to classify the dataset. I used a logistic regression model (with a threshold value of 0.3), decision trees, bagging, and random forests. I plotted the decision tree so that we can see how the decision tree makes its decisions and a heatmap so that we can see the correlation between different variables.
-=======
+
 I developed a Jupyter Notebook to classify fradulent credit card transactions based on a dataset of over 280,000 records. Only 492 records were actually fradulent, so I had to undersample the legitimate records to minimize the imbalance between the two classes. I used several ML models to classify the dataset. I used a linear regression classifier, logistic regression classifier (with a threshold value of 0.3), decision trees, bagging, random forests, and support vector machines. I plotted the decision tree so that we can see how the decision tree makes its decisions and a heatmap so that we can see the correlation between different variables.
->>>>>>> 60277efd50ceb2a85ee691860a3bba765b31d957
